@@ -34,7 +34,6 @@ Alcantar, Miguel Angel	University of California-San Diego	Engineering - Bioengin
 Aldarondo, Diego Etiony	Princeton University	Life Sciences - Neurosciences	Princeton University
 Alers, Anthony James	Johns Hopkins University	Life Sciences - Neurosciences	Duke University
 Alhaj, Mohammed A	Rutgers University New Brunswick	Engineering - Materials Engineering	Michigan State University
-Alhaj, Mohammed A	Rutgers University New Brunswick	Engineering - Materials Engineering	Michigan State University
 Allen, Kristen	Swarthmore College	Social Sciences - Decision Making and Risk Analysis	Carnegie-Mellon University
 Allen, Denise Elizabeth	University of California-Los Angeles	Life Sciences - Neurosciences	University of California-San Francisco
 Allen, Kaitlin	Massachusetts Institute of Technology	Life Sciences - Physiology	
@@ -112,14 +111,12 @@ Bangle, Rachel	Duke University	Chemistry - other (specify) - Inorganic Materials
 Bankson, Brett Baribault	University of Portland	Psychology - Cognitive Neuroscience	University of Pittsburgh
 Banner, Patrick	Denison University	Physics and Astronomy - Atomic, Molecular and Optical Physics	Denison University
 Bao, Karen Jialu	Columbia University	Geosciences - Biological Oceanography	
-Bao, Karen Jialu	Columbia University	Geosciences - Biological Oceanography	
 Barakat, Rita	UNIVERSITY OF CALIFORNIA BERKELEY	Psychology - Cognitive Neuroscience	University of Southern California
 Barilla, Rocky Mitsuaki	Johns Hopkins University	Life Sciences - other (specify) - Immunology	Harvard University
 Barish, Syndi Marissa	The College of New Jersey	Life Sciences - Genetics	Yale University
 Barner, Lindsey Ann	Messiah College	Engineering - Mechanical Engineering	University of Washington
 BARNES, EMILY	Yale University	Engineering - Environmental Engineering	University of California-Berkeley
 Barnett, Michael Alan	University of California-Irvine	Psychology - Cognitive Neuroscience	University of Pennsylvania
-Barrett, Jordan Vincent	Syracuse University	Physics and Astronomy - Condensed Matter Physics	Syracuse University
 Barrett, Jordan Vincent	Syracuse University	Physics and Astronomy - Condensed Matter Physics	Syracuse University
 Barrett, Tyler	SUNY at Buffalo	Physics and Astronomy - Theoretical Physics	SUNY at Buffalo
 Barth, Katrina Jean	Wake Forest University	Engineering - Biomedical Engineering	Wake Forest University
@@ -231,7 +228,6 @@ Brooks, Edward Bordeau	University of Chicago	Comp/IS/Eng - Human Computer Intera
 Brooks, Erin Frances	Duke University	Chemistry - other (specify) - Materials Chemistry	University of California-Berkeley
 Brough, Lydia Gail	Pennsylvania State Univ University Park	Engineering - Mechanical Engineering	University of Texas at Austin
 Brown, Tierney Bridget	GEORGE WASHINGTON UNIVERSITY, THE	Social Sciences - Cultural Anthropology	New York University
-Brown, Tierney Bridget	GEORGE WASHINGTON UNIVERSITY, THE	Social Sciences - Cultural Anthropology	New York University
 Brown, Alexandra Carol	UNIVERSITY OF CALIFORNIA BERKELEY	Chemistry - Chemical Synthesis	Massachusetts Institute of Technology
 Brown, Violet Aurora	Carleton College	Psychology - Cognitive Psychology	
 Brown, Keith Brower	University of California-Berkeley	Social Sciences - Geography	University of California-Berkeley
@@ -257,7 +253,6 @@ Butler, Elizabeth	Northern Michigan University	Physics and Astronomy - Astronomy
 Butts, Tyler James	St. Norbert College	Life Sciences - Ecology	St. Norbert College
 Byers, Conleigh	Princeton University	Engineering - Systems Engineering	Massachusetts Institute of Technology
 Byl, Petra Kim	University of Chicago	Geosciences - Biological Oceanography	University of Chicago
-Byrd, Anya Denise	University of Maryland Baltimore County	Geosciences - Marine Biology	University of Maryland Baltimore County
 Byrd, Anya	University of Maryland Baltimore County	Geosciences - Marine Biology	University of Maryland Baltimore County
 Byrd, Mary Katherine	Clemson University	Engineering - Biomedical Engineering	
 Cable, Dylan Maxwell	Stanford University	Mathematical Sciences - Probability	Stanford University
@@ -267,7 +262,6 @@ Cai, Sarah W	California Institute of Technology	Life Sciences - Structural Biolo
 Calaor, Jerilyn Jean Macalalag	University of Guam	Life Sciences - Ecology	University of Guam
 Caldwell, Maylin	California State University, San Marcos	Life Sciences - Genetics	California State University, San Marcos
 Calhoun, Kendall Lee	UNIVERSITY OF CALIFORNIA BERKELEY	Life Sciences - Ecology	UNIVERSITY OF CALIFORNIA BERKELEY
-Callahan, Ryan	North Dakota State University Fargo	Life Sciences - Microbial Biology	North Dakota State University Fargo
 Callahan, Ryan	North Dakota State University Fargo	Life Sciences - Microbial Biology	North Dakota State University Fargo
 Callahan, Matthew	Stanford University	Chemistry - Chemistry of Life Processes	
 Caluori, Nava Elena	Skidmore College	Psychology - Social Psychology	
@@ -284,8 +278,8 @@ Cappello, Caroline Deborah	Brandeis University	Life Sciences - Ecology	Universit
 Carder, Hayden Monroe	University of Rochester	Chemistry - Chemical Structure, Dynamics, and Mechanism	University of Rochester
 Cardle, Ian Israel	Cornell University	Engineering - Biomedical Engineering	University of Washington
 Cardozo Pinto, Daniel Felipe	UNIVERSITY OF CALIFORNIA BERKELEY	Life Sciences - Neurosciences	Leland Stanford Jr. University
-Carlson, Rachel Ragnhild	William Marsh Rice University	Life Sciences - Ecology	
 Carlson, Elizabeth	Carroll College	Mathematical Sciences - Applied Mathematics	University of Nebraska-Lincoln
+Carlson, Rachel Ragnhild	William Marsh Rice University	Life Sciences - Ecology	
 Carolan, Margaret Elizabeth	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY	Engineering - Environmental Engineering	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY
 Carr, Sydney Lee	University of Connecticut	Social Sciences - Political Science	University of Connecticut
 Carrasco, Jessica	University of New Mexico	Psychology - Neuropsychology	San Diego State University/ University of California, San Diego
@@ -309,7 +303,6 @@ Chan, Nathan Kar Ming	University of California-Los Angeles	Social Sciences - Pol
 Chan, Yu Chin	North Carolina State University	Engineering - Mechanical Engineering	Northwestern University
 Chandler, Colin Orion	San Francisco State University	Physics and Astronomy - Astronomy and Astrophysics	Northern Arizona University
 Chang, Jason Marvin	University of Texas at Dallas	Engineering - Biomedical Engineering	Cornell University
-Chang, Jason Marvin	University of Texas at Dallas	Engineering - Biomedical Engineering	Cornell University
 Chang, Vera L.	Carleton College	Social Sciences - Geography	UNIVERSITY OF CALIFORNIA BERKELEY
 Chang, Julie	Yale University	Engineering - Biomedical Engineering	Stanford University
 Chang, Michael	Massachusetts Institute of Technology	Comp/IS/Eng - Machine Learning	University of California-Berkeley
@@ -327,18 +320,17 @@ Chau, Ilea Josette	Duke University	Life Sciences - Genetics	University of Califo
 Chaudhry, Aditya	University of Virginia Main Campus	Social Sciences - Economics	University of Virginia Main Campus
 Chavez, Michael Gregory	University of California-Davis	Engineering - Biomedical Engineering	Stanford University
 Chen, Sami	University of California-Santa Cruz	Geosciences - Geochemistry	Stanford University
-Chen, Sami	University of California-Santa Cruz	Geosciences - Geochemistry	Stanford University
 Chen, Carolyn	Princeton University	Comp/IS/Eng - Robotics and Computer Vision	UNIVERSITY OF CALIFORNIA BERKELEY
 Chen, Weitong	JOHNS HOPKINS UNIVERSITY	Engineering - Chemical Engineering	William Marsh Rice University
 Chen, Charles	Washington University	Life Sciences - Neurosciences	Washington University
 Chen, Andrew Wei	Stanford University	Comp/IS/Eng - Bioinformatics and other Informatics	Stanford University
 Chen, Eric	UNIVERSITY OF CALIFORNIA BERKELEY	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	UNIVERSITY OF CALIFORNIA BERKELEY
 Chen, Catherine	Duke University	Life Sciences - Evolutionary Biology	University of North Carolina at Chapel Hill
+Chen, Evan	Massachusetts Institute of Technology	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Massachusetts Institute of Technology
+Chen, Jason Jun	University of California-Irvine	Engineering - Biomedical Engineering	University of California-Irvine
 Chen, Hugh	University of California-Berkeley	Comp/IS/Eng - Computational Science and Engineering	University of Washington
 Chen, Joshua	University of California-Berkeley	Engineering - Biomedical Engineering	
 Chen, Aaron	Cornell University	Mathematical Sciences - Applied Mathematics	University of Chicago
-Chen, Evan	Massachusetts Institute of Technology	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Massachusetts Institute of Technology
-Chen, Jason Jun	University of California-Irvine	Engineering - Biomedical Engineering	University of California-Irvine
 Chen, Justin P	UNIVERSITY OF CALIFORNIA BERKELEY	Engineering - Chemical Engineering	
 Chen, Melinda	Johns Hopkins University	Engineering - Biomedical Engineering	Massachusetts Institute of Technology
 Cheng, Victoria	Duke University	Engineering - Civil Engineering	University of California-Berkeley
@@ -392,7 +384,6 @@ Conklin, Emily	Ithaca College	Life Sciences - Genomics
 Conlon, John	OHIO STATE UNIVERSITY	Social Sciences - Economics	
 Conway, Jacob	University of Chicago	Social Sciences - Economics	Stanford University
 Conway, William	Massachusetts Institute of Technology	Life Sciences - Biophysics	Harvard University
-Cooper, Eric Scott	Pomona College	Physics and Astronomy - Atomic, Molecular and Optical Physics	Pomona College
 Cooper, Eric Scott	Pomona College	Physics and Astronomy - Atomic, Molecular and Optical Physics	Pomona College
 Coppess, Katherine Rowe	UNIVERSITY OF MICHIGAN	Life Sciences - Structural Biology	Stanford University
 Corbae, Paul Joseph	University of Michigan Ann Arbor	Materials Research - Physics of Materials	University of California-Berkeley
@@ -478,7 +469,6 @@ Dewey, Marley Johnstone	University of Maine	Materials Research - Biomaterials	UN
 DeWitt, Jonathan Alexander	Haverford College	Mathematical Sciences - Analysis	University of Chicago
 Di, Julia	Columbia University	Engineering - Electrical and Electronic Engineering	Columbia University
 Diaz, Roberto Efrain	University of Miami	Life Sciences - Biochemistry	University of California-San Francisco
-Diaz, Roberto Efrain	University of Miami	Life Sciences - Biochemistry	University of California-San Francisco
 Diaz-Hyland, Pablo Gabriel	University of Puerto Rico Mayaguez	Engineering - Chemical Engineering	University of Puerto Rico Mayaguez
 Dibrell, Sara Elise	University of Texas at San Antonio	Chemistry - Chemical Synthesis	University of Texas at San Antonio
 DiCarlo, Morgan	SUNY at Stony Brook	Engineering - Civil Engineering	Virginia Polytechnic Institute and State University
@@ -490,7 +480,6 @@ DiMuccio, Sarah Helweg	Dickinson College	Psychology - Social Psychology	New York
 Dimwamwa, Elaida	University of Pennsylvania	Engineering - Biomedical Engineering	Georgia Institute of Technology
 Ding, Jennifer	Columbia University	Life Sciences - Neurosciences	University of Chicago
 DiNicola, Lauren Mary	Harvard University	Psychology - Cognitive Neuroscience	Harvard University
-DiTusa, Mark Feuer	Louisiana State University & Agricultural and Mechanical College	Materials Research - Polymers	University of Chicago
 DiTusa, Mark Feuer	Louisiana State University & Agricultural and Mechanical College	Materials Research - Polymers	University of Chicago
 Do, Brian Huynh	Georgia Institute of Technology	Engineering - Mechanical Engineering	Stanford University
 Dobbels, Gregory	Cornell University	Social Sciences - Economics	University of Chicago
@@ -506,8 +495,8 @@ Doody, Claire Diane	University of Chicago	Geosciences - Geophysics	University of
 Dorn, Jacob Felix	University of Chicago	Social Sciences - Economics	
 Doshi, Anjali	Columbia University	Engineering - Biomedical Engineering	Columbia University
 Doucette, Margaret	University of Chicago	Mathematical Sciences - other (specify) - Dynamics/Geometry	University of Chicago
-Douglas, Bonnie	Washington College	Life Sciences - other (specify) - Immunology	University of Pennsylvania
 Douglas, Isabella P	Princeton University	Engineering - Civil Engineering	Stanford University
+Douglas, Bonnie	Washington College	Life Sciences - other (specify) - Immunology	University of Pennsylvania
 Dowdell, Katherine Shea	University of Colorado at Boulder	Engineering - Environmental Engineering	University of Michigan Ann Arbor
 Downie, Alexander Edwards	Yale University	Life Sciences - Ecology	
 Drake, Kyle David	University of Connecticut	Life Sciences - Developmental Biology	University of Connecticut
@@ -578,7 +567,6 @@ Fischella, Michael Raymond	UCLA-HIGHER EDUCATION RESEARCH INSTITUTE	Life Science
 Fischer, Natalie	University of California-Riverside	Life Sciences - Organismal Biology	University of California-Riverside
 Fisk, Jonathan James	Stanford University	Social Sciences - Cultural Anthropology	University of Hawaii Manoa
 Fitz-Henley, Jhewelle	University of Illinois at Chicago	Chemistry - Chemical Synthesis	University of Wisconsin-Madison
-Fitz-Henley, Jhewelle	University of Illinois at Chicago	Chemistry - Chemical Synthesis	University of Wisconsin-Madison
 Flaherty, Thomas Michael	University of California-Los Angeles	Social Sciences - Political Science	University of California-San Diego
 Flaxman, Hope Airlie	Massachusetts Institute of Technology	Chemistry - Chemistry of Life Processes	Harvard University
 Flores, Rebecca A	Texas State University - San Marcos	Comp/IS/Eng - Software Engineering	Austin Community College
@@ -598,8 +586,8 @@ Fortman, Anne	SUNY at Buffalo	Physics and Astronomy - Particle Physics	SUNY at B
 Foster, Natalie	University of Florida	Physics and Astronomy - Condensed Matter Physics	University of Texas at Austin
 Fostvedt, Jade Irene	University of South Dakota Main Campus	Chemistry - Chemical Catalysis	UNIVERSITY OF CALIFORNIA BERKELEY
 Fouty, Tyler T	Salish Kootenai College	Engineering - Civil Engineering	Washington State University
-Fowler, Deborah Marie	University of Massachusetts Lowell	Engineering - Mechanical Engineering	University of Massachusetts Lowell
 Fowler, Whitney Claire	Vanderbilt University	Engineering - Chemical Engineering	University of Chicago
+Fowler, Deborah Marie	University of Massachusetts Lowell	Engineering - Mechanical Engineering	University of Massachusetts Lowell
 Fox, Kris Ryder	New Mexico Institute of Mining and Technology	Geosciences - Physical and Dynamic Meteorology	New Mexico Institute of Mining and Technology
 Francis, Emmet Alexander	University of California-Davis	Engineering - Biomedical Engineering	University of California-Davis
 Francisco, Abigail	Clemson University	Engineering - Civil Engineering	Georgia Institute of Technology
@@ -627,13 +615,13 @@ Gallegos, Alejandro Aron	University of California-Riverside	Engineering - Chemic
 Galloway, Jordan David	Shaw University	Chemistry - Chemical Structure, Dynamics, and Mechanism	University of California - Merced
 Gapinske, Michael Paul	University of Illinois at Urbana-Champaign	Engineering - Bioengineering	University of Illinois at Urbana-Champaign
 Garcia, Adriana Ann	San Francisco State University	Life Sciences - Biochemistry	Stanford University
-Garcia, Erick	University of California-Los Angeles	Physics and Astronomy - Condensed Matter Physics	Brown University
-Garcia, Gabriela Marie	Boston College	Life Sciences - Ecology	Tufts University
 Garcia, Miranda Miriam	University of Chicago	Social Sciences - Cultural Anthropology	University of Michigan Ann Arbor
 Garcia, Christina	University of California-Santa Barbara	Materials Research - Physics of Materials	University of California-Santa Barbara
+Garcia, Erick	University of California-Los Angeles	Physics and Astronomy - Condensed Matter Physics	Brown University
+Garcia, Gabriela Marie	Boston College	Life Sciences - Ecology	Tufts University
+Garcia, Aaron David	Trustees of Boston University	Life Sciences - Neurosciences	University of Washington
 Garcia, Alyssa	California State University-Fullerton	Physics and Astronomy - Astronomy and Astrophysics	Brandeis University
 Garcia, Karina	UNIVERSITY OF CALIFORNIA BERKELEY	Life Sciences - Ecology	
-Garcia, Aaron David	Trustees of Boston University	Life Sciences - Neurosciences	University of Washington
 Garcia Chavez, Martin	Manchester University	Chemistry - Chemistry of Life Processes	University of Illinois at Urbana-Champaign
 Gardner, Kayla Grace	University of South Carolina at Columbia	Geosciences - Marine Biology	University of South Carolina at Columbia
 Gardner, Deborah Adrianna	University of California-San Diego	Engineering - Mechanical Engineering	
@@ -747,7 +735,6 @@ Harvey, Samantha Marie	Indiana University	Chemistry - Macromolecular, Supramolec
 Hasan, Ali	University of North Carolina at Chapel Hill	Mathematical Sciences - Computational Mathematics	
 Hashimoto, Sachi Victoria	University of Chicago	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Boston University
 Hassan, Isra	Stevens Institute of Technology	Chemistry - Chemical Catalysis	Columbia University
-Hassan, Isra	Stevens Institute of Technology	Chemistry - Chemical Catalysis	Columbia University
 Hastings, Zoe C	Macalester College	Life Sciences - Environmental Biology	University of Hawaii Manoa
 Havens, Luke Timothy	University of South Carolina at Columbia	Life Sciences - Neurosciences	
 Haviland, Katherine Ann	UNIVERSITY OF MARYLAND	Geosciences - Biogeochemistry	CORNELL UNIVERSITY
@@ -776,7 +763,6 @@ Herrick, Hannah Marie	University of Arizona	Social Sciences - Archaeology	Univer
 Herzog, Marquerite	National University	Life Sciences - Evolutionary Biology	University of Texas at Arlington
 Hewes, Sarah Ann	Johns Hopkins University	Engineering - Bioengineering	Rice University
 Hex, Severine	Cornell University	Psychology - Comparative Psychology	Cornell University
-Hibbler, Brianna	Rose-Hulman Institute of Technology	Engineering - Mechanical Engineering	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY
 Hibbler, Brianna	Rose-Hulman Institute of Technology	Engineering - Mechanical Engineering	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY
 Hickam, Bryce	Occidental College	Chemistry - Chemical Structure, Dynamics, and Mechanism	Occidental College
 Hicks, Jasmin Alexis	Bridgewater State College	Life Sciences - Neurosciences	Colorado State University
@@ -875,20 +861,20 @@ Jobe, Justus Grant, Dalton	UNIVERSITY OF MARYLAND	Life Sciences - Ecology	UNIVER
 Joffe, Jillian Keelan	Auburn University	Engineering - Mechanical Engineering	Auburn University
 John, Tibin	Kalamazoo College	Life Sciences - Neurosciences	University of Michigan Ann Arbor
 Johnson, Makenna May	Utah State University	Life Sciences - Evolutionary Biology	Utah State University
-Johnson, Kaitlyn	Georgetown University	Engineering - Biomedical Engineering	University of Texas at Austin
-Johnson, Matthew William	William Marsh Rice University	Comp/IS/Eng - Computer Networks	University of Washington
 Johnson, Kara Ann	University of Utah	Engineering - Biomedical Engineering	University of Utah
+Johnson, Kaitlyn	Georgetown University	Engineering - Biomedical Engineering	University of Texas at Austin
 Johnson, Elijah Thomas	James Madison University	STEM Education and Learning Research - Science Education	Auburn University
 Johnson, Hunter James	University of Wisconsin-Madison	Engineering - Biomedical Engineering	University of Wisconsin-Madison
+Johnson, Matthew William	William Marsh Rice University	Comp/IS/Eng - Computer Networks	University of Washington
 Johnson, Camilla Erin	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY	Engineering - Materials Engineering	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY
 Johnson, Marshall Vincent	University of Illinois at Urbana-Champaign	Engineering - Mechanical Engineering	Georgia Institute of Technology
 Johnson, Erica	Universidad Simon Bolivar	Life Sciences - Ecology	
 Jones, Mackenzie	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY	Materials Research - Metallic Materials	VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY
 Jones, Gregory Harrison	University of Tulsa	Chemistry - Chemical Structure, Dynamics, and Mechanism	California Institute of Technology
+Jones, Payton Jeffrey	Brigham Young University	Psychology - other (specify) - Psychopathology	Harvard University
 Jones, Marissa	Southwest Baptist University	Chemistry - Chemical Measurement and Imaging	Vanderbilt University
 Jones, Stephanie Taylor	Villanova University	STEM Education and Learning Research - Technology Education	Villanova University
 Jones, Aarin	Purdue University	Life Sciences - Systems and Molecular Biology	University of Texas Southwestern Medical Center
-Jones, Payton Jeffrey	Brigham Young University	Psychology - other (specify) - Psychopathology	Harvard University
 Jones, Gillian Maris	Brown University	Social Sciences - Cultural Anthropology	
 Jones, Christina	University of Georgia	Life Sciences - Systematics and Biodiversity	University of Georgia
 Jordan, Rachel Kelly	Appalachian State University	Life Sciences - Ecology	Appalachian State University
@@ -913,7 +899,6 @@ Kargul, Meg	Michigan State University	Life Sciences - Ecology
 Karvelis, Elijah	University of Illinois	Engineering - Bioengineering	University of Illinois
 Kasdan, Anna Victoria	Boston University	Psychology - Cognitive Neuroscience	
 Kato, Dylan Keith	University of California-Berkeley	Engineering - Civil Engineering	University of California-Berkeley
-Kato, Dylan Keith	University of California-Berkeley	Engineering - Civil Engineering	University of California-Berkeley
 Kautz, Marin Michelle	Barnard College	Psychology - Developmental Psychology	Temple University
 Kayali, Nihal	Yale University	Social Sciences - Sociology	University of California-Los Angeles
 Kays, Joshua Christian	JOHNS HOPKINS UNIVERSITY	Materials Research - Photonic Materials	Trustees of Boston University
@@ -926,10 +911,9 @@ Kendall, Wesley Yoo	Rutgers University New Brunswick	Materials Research - Photon
 Kendricks, Dalisa	Wesleyan College	Psychology - Physiological Psychology	Auburn University
 Kennedy, Nolan	University of Minnesota-Twin Cities	Engineering - Bioengineering	Northwestern University
 Kennedy, Kiley Elizabeth	Wesleyan University	Physics and Astronomy - Particle Physics	Columbia University
-Kennedy, Elizabeth	CORNELL UNIVERSITY	Life Sciences - Microbial Biology	Washington University
 Kennedy, Dana Renae	San Francisco State University	Life Sciences - Biochemistry	University of California-San Francisco
+Kennedy, Elizabeth	CORNELL UNIVERSITY	Life Sciences - Microbial Biology	Washington University
 Kennedy, Madison Arza	San Diego State University Foundation	Life Sciences - Biochemistry	San Diego State University Foundation
-Kenny, Heather Violet	University of California-Davis	Life Sciences - Ecology	
 Kenny, Heather Violet	University of California-Davis	Life Sciences - Ecology	
 Kentor, Corinne Darcy	Yale University	Social Sciences - Anthropology, other (specify) - Cultural Anthropology	Teachers College, Columbia University
 Kern, Skyler Jordan	University of Alaska Anchorage Campus	Engineering - Mechanical Engineering	University of Colorado at Boulder
@@ -941,7 +925,6 @@ Khuu, Ngoc-Thoa Vinh	Vanderbilt University	Social Sciences - Sociology	Universit
 Kibrom, Amanuel Michael	University of Chicago	Life Sciences - Biochemistry	Duke University
 Kiesewetter, Kasey	Case Western Reserve University	Life Sciences - Ecology	University of Miami
 Kim, Sooshin	Seoul National University	Physics and Astronomy - Atomic, Molecular and Optical Physics	Harvard University
-Kim, Sooshin	Seoul National University	Physics and Astronomy - Atomic, Molecular and Optical Physics	Harvard University
 Kim, Brian Lee Kiwon	Trustees of Boston University	Engineering - Materials Engineering	Trustees of Boston University
 Kim, Brian Seung Taek	Colby College	Geosciences - Biological Oceanography	Colby College
 Kim, Joseph Chahn	Cornell University	Chemistry - Chemical Theory, Models and Computational Methods	Cornell University
@@ -952,9 +935,9 @@ Kindel, Alexander Thomas	Stanford University	Social Sciences - Sociology	Princet
 King, Rachel Ann	University of Wisconsin-Madison	Psychology - Developmental Psychology	
 King, Ella Michelle	Stanford University	Physics and Astronomy - Condensed Matter Physics	Stanford University
 King, Teisha Pamela	University of Maryland, Baltimore County (UMBC)	Life Sciences - Physiology	Louisiana State University & Agricultural and Mechanical College
-King, Dillon Elizabeth	Coastal Carolina University	Geosciences - Chemical Oceanography	Coastal Carolina University
 King, Amy	University of Massachusetts Amherst	Engineering - Mechanical Engineering	Duke University
 King, Jacob Feldman	Duke University	Engineering - Environmental Engineering	Stanford University
+King, Dillon Elizabeth	Coastal Carolina University	Geosciences - Chemical Oceanography	Coastal Carolina University
 Kirby, William Mullen	Williams College	Physics and Astronomy - Theoretical Physics	
 Kiriazes, Rebecca Ellen	University of Florida	Engineering - Civil Engineering	University of Florida
 Kislik, Emily Anne	University of California-Berkeley	Social Sciences - Geography	University of California-Berkeley
@@ -966,7 +949,6 @@ Klinges, Julia Grace	Haverford College	Life Sciences - Microbial Biology	Oregon 
 Knecht, Richard Joseph	Tufts University	Geosciences - Paleontology and Paleobiology	University of New Hampshire
 Knight, Michael Robert	University of California-Santa Barbara	Materials Research - Ceramics	Colorado School of Mines
 Knight, Christopher John	University of California-Davis	Life Sciences - Ecology	San Diego State University Foundation
-Knoblauch, Rachael	University of Maryland Baltimore County	Chemistry - Macromolecular, Supramolecular, and Nanochemistry	University of Maryland Baltimore County
 Knoblauch, Rachael	University of Maryland Baltimore County	Chemistry - Macromolecular, Supramolecular, and Nanochemistry	University of Maryland Baltimore County
 Knox, Susan Laura	The College of New Jersey	Chemistry - Chemistry of Life Processes	Yale University
 Knupp, David	Michigan State University	Life Sciences - Systems and Molecular Biology	Board of Regents, NSHE, obo University of Nevada, Reno
@@ -984,7 +966,6 @@ Kozal, Logan	Yale University	Geosciences - Marine Biology	University of Californ
 Kraemer, Emily M	Harvard University	Engineering - Environmental Engineering	UNIVERSITY OF CALIFORNIA BERKELEY
 Kraft, Laura Joan	University of Georgia	Life Sciences - other (specify) - Entomology	North Carolina State University
 Kress, Rachael	University of Alabama Tuscaloosa	Chemistry - Macromolecular, Supramolecular, and Nanochemistry	William Marsh Rice University
-Kress, Rachael	University of Alabama Tuscaloosa	Chemistry - Macromolecular, Supramolecular, and Nanochemistry	William Marsh Rice University
 Kristof, Andrew Joseph	North Carolina State University	Engineering - Chemical Engineering	North Carolina State University
 Krueger, Hannah Elaine	Appalachian State University	Geosciences - Geophysics	Brown University
 Ku, Stephanie	University of California-Los Angeles	Mathematical Sciences - Computational Mathematics	Rensselaer Polytechnic Institute
@@ -993,7 +974,6 @@ Kulkarni, Anita	California Institute of Technology	Physics and Astronomy - Conde
 Kullar, Monica	University of California-San Diego	Psychology - Social/Affective Neuroscience	
 Kumanduri, Luis	Stanford University	Mathematical Sciences - Geometric Analysis	Stanford University
 Kuo, Angel	Wellesley College	Chemistry - Chemistry of Life Processes	Wellesley College
-Kuo, Angel	Wellesley College	Chemistry - Chemistry of Life Processes	Wellesley College
 Kuraan, Abdullah M	Youngstown State University	Engineering - Mechanical Engineering	UNIVERSITY OF CALIFORNIA BERKELEY
 Kustra, Matthew C	University of Virginia Main Campus	Life Sciences - Evolutionary Biology	University of Virginia Main Campus
 Kuszmaul, William Henry	Stanford University	Comp/IS/Eng - Algorithms and Theoretical Foundations	Stanford University
@@ -1001,7 +981,6 @@ Kwan, Brian	University of California-Irvine	Mathematical Sciences - Biostatistic
 Lagerman, Colton Eric	University of Kansas Main Campus	Engineering - Chemical Engineering	University of Kansas Main Campus
 Lagunas-Robles, German	Cal Poly Pomona Foundation, Inc.	Life Sciences - Evolutionary Biology	Cal Poly Pomona Foundation, Inc.
 Lai, Lucy	William Marsh Rice University	Life Sciences - Neurosciences	William Marsh Rice University
-Laiduc, Giselle	University of Arizona	Psychology - Social Psychology	University of California-Santa Cruz
 Laiduc, Giselle	University of Arizona	Psychology - Social Psychology	University of California-Santa Cruz
 Lakey, Bryan Daniel	Michigan State University	Life Sciences - Genetics	University of Wisconsin-Madison
 Lakhan-Pal, Shreya	University of California-Berkeley	Psychology - Developmental Psychology	University of Minnesota-Twin Cities
@@ -1015,8 +994,8 @@ Lange, Malte	University of Washington	Chemistry - Chemical Theory, Models and Co
 Langhans, Kelley Elizabeth	Swarthmore College	Life Sciences - Ecology	
 Lanning, Nathan Timothy	University of New Haven	Geosciences - Chemical Oceanography	University of New Haven
 Lara, Magdalena	California State University-Dominguez Hills	Life Sciences - Microbial Biology	California State University-Dominguez Hills
-Larson, Kelsey Rose	Yale University	Social Sciences - Economics	Yale University
 Larson, Rebecca L	University of Texas at Austin	Physics and Astronomy - Astronomy and Astrophysics	University of Texas at Austin
+Larson, Kelsey Rose	Yale University	Social Sciences - Economics	Yale University
 Lathrop, Emily Megan	University of Maryland College Park	Engineering - Mechanical Engineering	University of California-San Diego
 Latimer, Ben	Missouri University of Science and Technology	Engineering - Electrical and Electronic Engineering	University of Missouri-Columbia
 Lau, Emily	Hunter College of CUNY	Life Sciences - Organismal Biology	Hunter College of CUNY
@@ -1035,16 +1014,15 @@ LeDesma, Robert Andre	Columbia University	Life Sciences - Microbial Biology	Prin
 Ledger, Kimberly Joan	University of Montana	Life Sciences - Evolutionary Biology	University of Florida
 Ledwith, Mitchell	St. Norbert College	Life Sciences - Cell Biology	University of Wisconsin-Madison
 Lee, Sophia Evonne	Massachusetts Institute of Technology	Engineering - Chemical Engineering	Drexel University
-Lee, Sophia Evonne	Massachusetts Institute of Technology	Engineering - Chemical Engineering	Drexel University
 Lee, Jonathan	Rose-Hulman Institute of Technology	Engineering - Chemical Engineering	University of Michigan Ann Arbor
 Lee, Connor Tinghan	California Institute of Technology	Comp/IS/Eng - Robotics and Computer Vision	
 Lee, Lisa Seung-Yeon	Princeton University	Comp/IS/Eng - Machine Learning	Carnegie-Mellon University
 Lee, Alysha Kay	University of Minnesota- Twin Cities	Life Sciences - Microbial Biology	
+Lee, Michael Chi	University of California-Berkeley	Chemistry - Chemistry of Life Processes	University of California-Berkeley
 Lee, Taylor Allison	University of California-Berkeley	Engineering - Mechanical Engineering	Purdue University
 Lee, Michelle M.	New York University	Psychology - Social Psychology	
 Lee, Michelle Khuu	University of Washington	Geosciences - Marine Geology and Geophysics	University of Washington
 Lee, Hang Woon	Massachusetts Institute of Technology	Engineering - Aeronautical and Aerospace Engineering	University of Illinois at Urbana-Champaign
-Lee, Michael Chi	University of California-Berkeley	Chemistry - Chemistry of Life Processes	University of California-Berkeley
 Lee, Hojae	UNIVERSITY OF CALIFORNIA BERKELEY	Engineering - Bioengineering	UNIVERSITY OF MICHIGAN
 Lee, Robert	Cornell University	Engineering - Chemical Engineering	Stanford University
 Lee, Daniel Sieh Wing	Yale University	Physics and Astronomy - Physics of Living Systems	Princeton University
@@ -1066,7 +1044,6 @@ Lepe, Jaqueline	University of California-Santa Barbara	Social Sciences - Sociolo
 Leshin, Joseph Christopher	California Polytechnic State University	Psychology - Social/Affective Neuroscience	University of North Carolina at Chapel Hill
 Lesk, Corey Samuel	McGill University	Geosciences - other (specify) - Climate science	Columbia University
 Lesko, Lauren	University of California-Los Angeles	Social Sciences - Biological Anthropology	
-Lesko, Lauren	University of California-Los Angeles	Social Sciences - Biological Anthropology	
 Leung, Derek Ting-Haye	UNIVERSITY OF CALIFORNIA BERKELEY	Comp/IS/Eng - Computer Security and Privacy	Massachusetts Institute of Technology
 Leung, Philip	University of Minnesota- Twin Cities	Life Sciences - Biochemistry	University of Minnesota- Twin Cities
 Levy, Emily Judith	Williams College	Life Sciences - other (specify) - Behavioral Ecology	Duke University
@@ -1082,8 +1059,8 @@ Li, Xiaoyue Judy	Vanderbilt University	Engineering - Biomedical Engineering	Vand
 Li, Chenguang	Dartmouth College	Life Sciences - Neurosciences	Dartmouth College
 Liang, Qiao	University of California-Berkeley	Comp/IS/Eng - Robotics and Computer Vision	University of California-Berkeley
 Liang, Charles Haohan	Columbia University	Materials Research - Physics of Materials	Columbia University
-Liao, Michael	Massachusetts Institute of Technology	Engineering - Bioengineering	University of California-San Diego
 Liao, Julia D	Colorado College	Psychology - Social Psychology	University of Michigan Ann Arbor
+Liao, Michael	Massachusetts Institute of Technology	Engineering - Bioengineering	University of California-San Diego
 Lichter, Tamar	CUNY Queens College	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Rutgers University New Brunswick
 Lichtman, Jared Duker	Dartmouth College	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Dartmouth College
 Liem, Alyssa Tomoko	Boston University	Engineering - Mechanical Engineering	Boston University
@@ -1123,7 +1100,6 @@ Lopez, Jesse	UNIVERSITY OF CALIFORNIA BERKELEY	Social Sciences - Political Scien
 Lopez, Jason Martin	University of Florida	Engineering - Civil Engineering	University of Florida
 Lopez Baltazar, Jesus Miguel	University of California-Los Angeles	Engineering - Materials Engineering	University of California-Los Angeles
 Lopez Colorado, Summer Lilyan	Cornell University	Social Sciences - Sociology	Cornell University
-Lorenzo, Emmaline Rose	University of Kansas Main Campus	Chemistry - Chemical Structure, Dynamics, and Mechanism	University of Kansas Main Campus
 Lorenzo, Emmaline Rose	University of Kansas Main Campus	Chemistry - Chemical Structure, Dynamics, and Mechanism	University of Kansas Main Campus
 Lowe, Benjamin	Wheaton College	Social Sciences - other (specify) - Human dimensions of natural resources manage	University of Florida
 Lozano, David	Michigan State University	Life Sciences - Neurosciences	
@@ -1169,12 +1145,10 @@ Mallaby-Kay, Maya	Columbia University	Physics and Astronomy - Astronomy and Astr
 Mallaro, Sophia Rae	University of Iowa	Comp/IS/Eng - Human Computer Interaction	University of Iowa
 Maloney, Emily Kathleen	University of Georgia	Social Sciences - Sociology	University of Georgia
 Maltba, Tyler Evan	North Carolina State University	Mathematical Sciences - Statistics	UNIVERSITY OF CALIFORNIA BERKELEY
-Maltba, Tyler Evan	North Carolina State University	Mathematical Sciences - Statistics	UNIVERSITY OF CALIFORNIA BERKELEY
 Mangu, Aashrita	California Institute of Technology	Physics and Astronomy - Astronomy and Astrophysics	UNIVERSITY OF CALIFORNIA BERKELEY
 Manivasagam, Sivabalan	Georgia Institute of Technology	Comp/IS/Eng - Machine Learning	Georgia Institute of Technology
 Mann, Makai Michael	Washington University	Comp/IS/Eng - Formal Methods, Verification, and Programming Languages	Stanford University
 Manoharan-Valerio, Michael Anand	University of Puerto Rico in Ponce	Life Sciences - Cell Biology	UNIVERSITY OF CALIFORNIA BERKELEY
-Marble, Christopher Brian	Tarleton State University	Physics and Astronomy - Atomic, Molecular and Optical Physics	Texas A&M University Main Campus
 Marble, Christopher Brian	Tarleton State University	Physics and Astronomy - Atomic, Molecular and Optical Physics	Texas A&M University Main Campus
 Marianchuk, Tegan Li	Arizona State University	Physics and Astronomy - Physics of Living Systems	
 Marlin, Theresa	DeSales University	Mathematical Sciences - Computational and Data-enabled Science	
@@ -1250,7 +1224,6 @@ Mercadante, Dayna	Franklin Pierce College	Mathematical Sciences - Mathematical B
 Merens, Hope Eliana	University of Pennsylvania	Life Sciences - Biochemistry	University of Pennsylvania
 Meriwether, Amanda Isabel	University of Texas at Austin	Engineering - Biomedical Engineering	University of Texas at Austin
 Merz, Garrett William	Ohio State University	Physics and Astronomy - Particle Physics	University of Michigan Ann Arbor
-Merz, Garrett William	Ohio State University	Physics and Astronomy - Particle Physics	University of Michigan Ann Arbor
 Metz, Maeva	MIAMI UNIVERSITY	Life Sciences - Cell Biology	Joan and Sanford I. Weill Medical College of Cornell University
 Meyer, Elisabeth	Harvard University	Life Sciences - Biochemistry	Stanford University
 Meyer, Nolan Kohrell	University of Minnesota-Twin Cities	Engineering - Biomedical Engineering	Mayo Clinic Rochester
@@ -1260,21 +1233,20 @@ Micheletti, Megan	University of California-Los Angeles	Psychology - Developmenta
 Mier-Valdivia, Andres Mariano	Massachusetts Institute of Technology	Physics and Astronomy - Condensed Matter Physics	Massachusetts Institute of Technology
 Migliore, Christina	Northeastern University	Physics and Astronomy - Plasma Physics	Northeastern University
 Miller, Katrina Renee	Duke University	Physics and Astronomy - Particle Physics	University of Chicago
-Miller, John Patterson	Stanford University	Comp/IS/Eng - Machine Learning	UNIVERSITY OF CALIFORNIA BERKELEY
 Miller, David Webster	Oberlin College	Mathematical Sciences - Applied Mathematics	Northwestern University
 Miller, Jeremiah Douglas	University of Oklahoma Norman Campus	Life Sciences - Neurosciences	Johns Hopkins University
 Miller, Noah Mavael	Columbia University	Physics and Astronomy - Theoretical Physics	Columbia University
+Miller, John Patterson	Stanford University	Comp/IS/Eng - Machine Learning	UNIVERSITY OF CALIFORNIA BERKELEY
 Miller, Suzannah Grace	Minot State University	Life Sciences - Biochemistry	University of Colorado at Boulder
 Miller, Kari	Truman State University	Life Sciences - Organismal Biology	Washington University
-Mills, Taylor S	University of Colorado at Boulder	Life Sciences - Cell Biology	University of Colorado at Denver
 Mills, Taylor S	University of Colorado at Boulder	Life Sciences - Cell Biology	University of Colorado at Denver
 Min, Alan Ted	Purdue University	Mathematical Sciences - Biostatistics	Purdue University
 Mirea, Nicole Irene	University of California-Los Angeles	Social Sciences - Linguistics	Northwestern University
 Mishra, Nikhil	University of California-Berkeley	Comp/IS/Eng - Machine Learning	University of California-Berkeley
 Misra, Aditya	Cornell University	Engineering - Biomedical Engineering	
 Mistrick, Janine Elizabeth	Pennsylvania State University - World Campus	Life Sciences - other (specify) - Infectious Disease Ecology	
-Mitchell, Joshua Lane	University of Washington	Social Sciences - Cultural Anthropology	CORNELL UNIVERSITY
 Mitchell, Megan Elise	University of South Carolina at Columbia	Life Sciences - Biochemistry	University of Colorado at Boulder
+Mitchell, Joshua Lane	University of Washington	Social Sciences - Cultural Anthropology	CORNELL UNIVERSITY
 Mixon, Emily Elizabeth	University of Texas at Austin	Geosciences - Tectonics	University of Texas at Austin
 Mizzi, Jessica Elizabeth	Michigan State University	Life Sciences - Microbial Biology	University of California-Davis
 Moed, Demi Elana Kristeller	University of Pennsylvania	Materials Research - Polymers	University of Pennsylvania
@@ -1286,13 +1258,12 @@ Moore, Alexia	Howard University	Chemistry - Sustainable Chemistry	Howard Univers
 Moraguez, Matthew Tyler	University of Florida	Engineering - Aeronautical and Aerospace Engineering	Massachusetts Institute of Technology
 Morales, Ana Cristina	Towson University	Chemistry - Environmental Chemical Systems	Purdue University
 Morales Betancourt, Alejandro L	University of Texas at San Antonio	Physics and Astronomy - other (specify) - Biophysiscs	University of Texas at San Antonio
-Morales Betancourt, Alejandro L	University of Texas at San Antonio	Physics and Astronomy - other (specify) - Biophysiscs	University of Texas at San Antonio
 Moreno, Nelson Ernesto	University of California-Santa Barbara	Physics and Astronomy - Condensed Matter Physics	University of Alabama Tuscaloosa
 Moreno, Jorge Armando	University of Iowa	Life Sciences - Evolutionary Biology	University of Iowa
 Moreno, Matthew Andres	University of  Puget Sound	Comp/IS/Eng - Communication and Information Theory	Michigan State University
+Morgan, Rachel	Massachusetts Institute of Technology	Engineering - Aeronautical and Aerospace Engineering	Massachusetts Institute of Technology
 Morgan, Mallory Maynes	Colorado College	Life Sciences - Ecology	Montana State University
 Morgan, Allison Christine	Reed College	Social Sciences - Science Policy	University of Colorado at Boulder
-Morgan, Rachel	Massachusetts Institute of Technology	Engineering - Aeronautical and Aerospace Engineering	Massachusetts Institute of Technology
 Morrill, Drew William	Brown University	Physics and Astronomy - Atomic, Molecular and Optical Physics	University of Colorado at Boulder
 Morris, Alyssa Rae	University of Minnesota- Twin Cities	Psychology - Developmental Psychology	University of Southern California
 Morris, Brooke M	Baylor University	Life Sciences - Genomics	Baylor University
@@ -1338,7 +1309,6 @@ Nakagawa, Rachel M	University of California-Davis	Life Sciences - Microbial Biol
 Nance, Sarafina	University of Texas at Austin	Physics and Astronomy - Astronomy and Astrophysics	University of California-Berkeley
 Nance, Patricia Jewell	Southern Methodist University	Chemistry - Chemical Catalysis	California Institute of Technology
 Napoli, Amalia J.	Marymount Manhattan College	Life Sciences - Neurosciences	State University of New York at Stony Brook
-Napoli, Amalia J.	Marymount Manhattan College	Life Sciences - Neurosciences	State University of New York at Stony Brook
 Nardo, Jocelyn Elizabeth	Florida International University	STEM Education and Learning Research - Science Education	Purdue University
 Narducci, Rachel Elizabeth	University of Florida	Geosciences - Paleontology and Paleobiology	University of Florida
 Nassar, Layla Marie	University of Miami	Life Sciences - Neurosciences	University of Miami
@@ -1356,8 +1326,8 @@ Newhardt, Maria F	Oklahoma State University	Life Sciences - Biochemistry	Univers
 Neyhouse, Bertrand Jeffrey	Ohio University	Engineering - Chemical Engineering	Ohio University
 Nghiem, Athena Anh-Thu	University of California-Berkeley	Geosciences - Biogeochemistry	Columbia University
 Nguyen, Duy T	University of Florida	Engineering - Civil Engineering	University of Florida
-Nguyen, David	Eastern Washington University	Life Sciences - Ecology	Eastern Washington University
 Nguyen, Quan Anh	University of Texas at Austin	Engineering - Chemical Engineering	William Marsh Rice University
+Nguyen, David	Eastern Washington University	Life Sciences - Ecology	Eastern Washington University
 Nguyen, Thien-Y Catherine	University of California-Davis	Life Sciences - Ecology	University of California-Riverside
 Nicholas, Molly	UNIVERSITY OF CALIFORNIA BERKELEY	Comp/IS/Eng - Human Computer Interaction	UNIVERSITY OF CALIFORNIA BERKELEY
 Niederhuber, Matthew J	Kenyon College	Life Sciences - Developmental Biology	University of North Carolina at Chapel Hill
@@ -1365,7 +1335,6 @@ Niedzwiecki, Alexandra	Florida State University	Life Sciences - Ecology
 Niemann, Valerie Anne	Drexel University	Engineering - Chemical Engineering	Drexel University
 Nieves Sanabria, Cesar Alberto	University of Puerto Rico at Humacao	Materials Research - Electronic Materials	Pennsylvania State Univ University Park
 Nigro, Katherine	University of California-Santa Barbara	Life Sciences - Ecology	
-Nikakhtar, Farnik	Sharif University of Technology	Physics and Astronomy - Astronomy and Astrophysics	
 Nikakhtar, Farnik	Sharif University of Technology	Physics and Astronomy - Astronomy and Astrophysics	
 Nkonge, Joshua	Hope College	Engineering - Biomedical Engineering	Hope College
 Nogues, Isabella	Princeton University	Mathematical Sciences - Biostatistics	Harvard University
@@ -1398,7 +1367,6 @@ Oleson, Alannah Lisa	Oregon State University	Comp/IS/Eng - Human Computer Intera
 Olivieri, Julia Eve	Oberlin College	Comp/IS/Eng - Bioinformatics and other Informatics	Stanford University
 Olshefski, Kristopher	Montana State University	Engineering - Mechanical Engineering	Montana State University
 Olson, Halie Ann	Harvard University	Psychology - Cognitive Neuroscience	Massachusetts Institute of Technology
-Olson, Halie Ann	Harvard University	Psychology - Cognitive Neuroscience	Massachusetts Institute of Technology
 Olson, Danielle Marie	Massachusetts Institute of Technology	Engineering - Computer Engineering	Massachusetts Institute of Technology
 Omans, Marcela Katherine	University of Delaware	Social Sciences - Cultural Anthropology	Michigan State University
 Omojaro, Olatide	Georgia Institute of Technology	Comp/IS/Eng - Computational Science and Engineering	Georgia Institute of Technology
@@ -1421,9 +1389,8 @@ Owens, Caroline Herrmann	University of Chicago	Life Sciences - Ecology
 Oxtoby, Lucas James	University of Wisconsin-Madison	Chemistry - Chemical Synthesis	University of Wisconsin-Madison
 Pachon, Julio C	Cornell University	Life Sciences - Environmental Biology	University of Florida
 Pacifici, Noah Junil Kim	Cornell University	Engineering - Biomedical Engineering	University of California-Davis
-Pacifici, Noah Junil Kim	Cornell University	Engineering - Biomedical Engineering	University of California-Davis
-Page, Ashle	North Carolina State University	Social Sciences - Science Policy	University of North Carolina at Chapel Hill
 Page, Lucy Elizabeth	Williams College	Social Sciences - Economics	
+Page, Ashle	North Carolina State University	Social Sciences - Science Policy	University of North Carolina at Chapel Hill
 Paine, Amelia Wang	Massachusetts Institute of Technology	Materials Research - Materials Theory	Massachusetts Institute of Technology
 Paine, Jennie	Virginia Polytechnic Institute and State University	Physics and Astronomy - Astronomy and Astrophysics	University of Colorado at Boulder
 Papa, Arianne	Johns Hopkins University	Life Sciences - Physiology	Columbia University
@@ -1445,7 +1412,6 @@ Paulsen, Riley Terrill	University of South Dakota Main Campus	Life Sciences - Ne
 Paulsen, Paige Eleanor	University of Chicago	Social Sciences - Archaeology	University of Central Florida
 Pawlik, Jacob Tyler	Appalachian State University	Materials Research - Chemistry of Materials	University of North Carolina at Chapel Hill
 Pearcy, Leigh B	University of North Carolina at Chapel Hill	Mathematical Sciences - Mathematical Biology	University of North Carolina at Chapel Hill
-Pearcy, Leigh B	University of North Carolina at Chapel Hill	Mathematical Sciences - Mathematical Biology	University of North Carolina at Chapel Hill
 Peeples, Joshua Kyle	University of Alabama at Birmingham	Engineering - Computer Engineering	University of Florida
 Pegan, Teresa Mary	Cornell University	Life Sciences - Evolutionary Biology	University of Michigan Ann Arbor
 Peisker, Alison Marie	Northern Illinois University	Physics and Astronomy - Particle Physics	Michigan State University
@@ -1461,7 +1427,6 @@ Perkins, Kaitlin Rose	Washington State University	Life Sciences - Ecology	Univer
 Perkins, Carrie Elizabeth	Vassar College	Life Sciences - Ecology	UNIVERSITY OF MARYLAND
 Perszyk, Emily Elizabeth	Washington and Lee University	Psychology - Perception and Psychophysics	Washington and Lee University
 Peruzzi, Justin Alexander	University of Virginia Main Campus	Engineering - Chemical Engineering	Northwestern University
-Pervan, Ana	University of Notre Dame	Engineering - Mechanical Engineering	Northwestern University
 Pervan, Ana	University of Notre Dame	Engineering - Mechanical Engineering	Northwestern University
 Peters, Christine	University of California-San Diego	Life Sciences - Microbial Biology	Stanford University
 petersen-rockney, margiana	Brown University	Social Sciences - Geography	UNIVERSITY OF CALIFORNIA BERKELEY
@@ -1507,11 +1472,9 @@ qerqez, ahlam nabil	University of Texas at Austin	Engineering - Chemical Enginee
 Queally, Natalie Lynne	University of California-Los Angeles	Life Sciences - Environmental Biology	
 Queen, Melissa	Dartmouth College	Comp/IS/Eng - Communication and Information Theory	
 Quill, Tyler J	Georgia Institute of Technology	Materials Research - Polymers	Georgia Institute of Technology
-Quill, Tyler J	Georgia Institute of Technology	Materials Research - Polymers	Georgia Institute of Technology
 Quintana, Adam David	University of New Mexico	Materials Research - Biomaterials	University of New Mexico
 Raccah, Omri	UCLA-HIGHER EDUCATION RESEARCH INSTITUTE	Psychology - Cognitive Neuroscience	
 Racine, Phoebe	Dartmouth College	Geosciences - Marine Biology	University of California-Santa Barbara
-Radanovic, Milica	Loyola University of Chicago	Geosciences - Biogeochemistry	Washington State University
 Radanovic, Milica	Loyola University of Chicago	Geosciences - Biogeochemistry	Washington State University
 Rael, Victoria Elizabeth	University of Chicago	Life Sciences - Systems and Molecular Biology	
 Rafkin, Charles Maxwell	Dartmouth College	Social Sciences - Economics	
@@ -1540,8 +1503,8 @@ Redwing, Erin	Pennsylvania State Univ University Park	Geosciences - other (speci
 Reed, Kelsey Maia	Columbia University	Engineering - Chemical Engineering	Columbia University
 Reed, Kevin Bennett	New Mexico Institute of Mining and Technology	Engineering - Chemical Engineering	University of Texas at Austin
 Reese, William Mcneil	North Carolina State University	Mathematical Sciences - Applied Mathematics	North Carolina State University
-Reeves, Audrey Glynn	Southern Methodist University	Chemistry - Chemical Measurement and Imaging	University of California-Berkeley
 Reeves, Kelsey Louise	University of Connecticut	Engineering - Environmental Engineering	University of Colorado at Boulder
+Reeves, Audrey Glynn	Southern Methodist University	Chemistry - Chemical Measurement and Imaging	University of California-Berkeley
 Reeves, Gregory Adam	University of Kansas Main Campus	Life Sciences - Genetics	Stanford University School of Medicine
 Regan, Emma Caitlin	Wellesley College	Physics and Astronomy - Condensed Matter Physics	University of California-Berkeley
 Reichert, Elaine	Harvard University	Chemistry - Chemical Catalysis	Harvard University
@@ -1587,13 +1550,11 @@ Romine, Andrew Mitchell	California Institute of Technology	Chemistry - Chemical 
 Rose, John Andrew	Indiana University	Chemistry - Chemical Synthesis	Yale University
 Rose, Brennan	New Mexico State University	Chemistry - Chemical Catalysis	University of Illinois at Urbana-Champaign
 Rosenberg, Jillian Nicole	Tulane University	Life Sciences - other (specify) - Immunology	University of Chicago
-Rosenberg, Jillian Nicole	Tulane University	Life Sciences - other (specify) - Immunology	University of Chicago
-Rosenthal, James	University of Minnesota-Twin Cities	Engineering - Electrical and Electronic Engineering	University of Washington
 Rosenthal, Emma Rose	Cornell University	Life Sciences - other (specify) - Plant Pathology	Pennsylvania State Univ University Park
+Rosenthal, James	University of Minnesota-Twin Cities	Engineering - Electrical and Electronic Engineering	University of Washington
 Ross, Sederra	Clark Atlanta University	Chemistry - other (specify) - Physical Chemistry	University of Massachusetts Boston
 Roth, Spencer Willis	Coe College	Geosciences - Biogeochemistry	Rutgers University New Brunswick
 Roth, Joseph	North Dakota State University Fargo	Materials Research - Materials, other (specify) - Transparent Conductors	Pennsylvania State Univ University Park
-Rothschild, Lilianne Marie	Gustavus Adolphus College	Psychology - other (specify) - Clinical Psychology	Michigan State University
 Rothschild, Lilianne Marie	Gustavus Adolphus College	Psychology - other (specify) - Clinical Psychology	Michigan State University
 Roubert Martinez, Sebastian	Cornell University	Engineering - Mechanical Engineering	Cornell University
 Rousseau, Beth	Wayne State University	Life Sciences - Biochemistry	University of Michigan Ann Arbor
@@ -1608,11 +1569,9 @@ Ruebeck, Hannah Katherine	Wellesley College	Social Sciences - Economics
 Rugar, Alison Emiko	CORNELL UNIVERSITY	Physics and Astronomy - Condensed Matter Physics	Stanford University
 Ruiz, Camilo	Massachusetts Institute of Technology	Comp/IS/Eng - Bioinformatics and other Informatics	Stanford University
 Ruiz-Robles, Jaime Fidel	University of San Luis Potosi	Materials Research - Biomaterials	University of California-Los Angeles
-Ruiz-Robles, Jaime Fidel	University of San Luis Potosi	Materials Research - Biomaterials	University of California-Los Angeles
 Rundell, Susan Michele	Yale University	Geosciences - Biological Oceanography	
 Runnels, Celeste	Georgia Institute of Technology	Life Sciences - Biochemistry	Georgia Institute of Technology
 Runyon, Matthew	Texas A&M University Main Campus	Comp/IS/Eng - other (specify) - Sketch Recognition/HCI/ML	Texas A&M University Main Campus
-Russell, Imani	Mills College	Life Sciences - Ecology	University of Michigan Ann Arbor
 Russell, Imani	Mills College	Life Sciences - Ecology	University of Michigan Ann Arbor
 Russo, Anna Elizabeth	Yale University	Social Sciences - Economics	
 Ruta, Anna	Duke University	Engineering - Biomedical Engineering	Duke University
@@ -1645,7 +1604,6 @@ Saydjari, Andrew Kahlil	Yale University	Chemistry - other (specify) - Spectrosco
 Scaggs, Shane Anthony	Boise State University	Social Sciences - Cultural Anthropology	Oregon State University
 Schaedel, Marie Elena	Carleton College	Life Sciences - Ecology	
 Schatz, Annie	Pitzer College	Life Sciences - Physiology	College of William & Mary Virginia Institute of Marine Science
-Schell, Laura Dickinson	Harvard University	Social Sciences - Biological Anthropology	Harvard University
 Schell, Laura Dickinson	Harvard University	Social Sciences - Biological Anthropology	Harvard University
 Schellberg, Rachel Marie	Pennsylvania State Univ University Park	Engineering - Aeronautical and Aerospace Engineering	Pennsylvania State Univ University Park
 Scher, Catherine Lane	University of Virginia Main Campus	Life Sciences - Ecology	
@@ -1697,7 +1655,6 @@ Sherbondy, Rachel Lynn	Pennsylvania State Univ University Park	Materials Researc
 Sherman, Thomas	University of Virginia Main Campus	Geosciences - Hydrology	University of Notre Dame
 Sherman-Bennett, Melissa Ulrika	Simon's Rock of Bard College	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	University of California-Berkeley
 Shi, Jingwei	California Institute of Technology	Engineering - Chemical Engineering	Stanford University
-Shi, Jingwei	California Institute of Technology	Engineering - Chemical Engineering	Stanford University
 Shi, Jessica	Princeton University	Comp/IS/Eng - Algorithms and Theoretical Foundations	Princeton University
 Shi, Zhaozhong	UNIVERSITY OF CALIFORNIA BERKELEY	Physics and Astronomy - Nuclear Physics	Massachusetts Institute of Technology
 Shilts, Jarrod	Vanderbilt University	Engineering - Bioengineering	University of Cambridge
@@ -1705,11 +1662,10 @@ Shin, Tay	UNIVERSITY OF CALIFORNIA BERKELEY	Life Sciences - Neurosciences
 Shin, Mia	University of California-Berkeley	Life Sciences - Structural Biology	The Scripps Research Institute
 Shin, David Myung Ho	HARVARD COLLEGE, PRESIDENT & FELLOWS OF	Life Sciences - Neurosciences	University of California-San Francisco
 Short, Clancy	Ohio State University	Life Sciences - other (specify) - Entomology	University of Florida
-Short, Clancy	Ohio State University	Life Sciences - other (specify) - Entomology	University of Florida
 Showalter, Esther Hope	Duke University	Comp/IS/Eng - Communication and Information Theory	University of California-Santa Barbara
 Shrock, Ellen	HARVARD COLLEGE, PRESIDENT & FELLOWS OF	Life Sciences - other (specify) - Systems Immunology	Harvard University
-Shu, Kevin	California Institute of Technology	Mathematical Sciences - Computational Statistics	California Institute of Technology
 Shu, Jasmine Ling	Vanderbilt University	Engineering - Biomedical Engineering	Stanford University
+Shu, Kevin	California Institute of Technology	Mathematical Sciences - Computational Statistics	California Institute of Technology
 Shull, Gabriella M	SUNY at Binghamton	Engineering - Biomedical Engineering	University of Minnesota- Twin Cities
 Siddiqui, Sharmin Farhan	University of Florida	Engineering - other (specify) - Engineering - Water Resources	University of Florida
 Siebert, Matthew Ryan	CORNELL UNIVERSITY	Physics and Astronomy - Astronomy and Astrophysics	University of California-Santa Cruz
@@ -1718,7 +1674,6 @@ Silver, Thomas Scott	Harvard University	Comp/IS/Eng - Machine Learning
 Silverman, Shaelyn Nicole	University of Colorado at Boulder	Geosciences - Geobiology	
 Simon, Garrett Kenji	United States Military Academy	Physics and Astronomy - Atomic, Molecular and Optical Physics	United States Military Academy
 Simpson, Adam Michael-Anthony	Carnegie-Mellon Institute of Technology	Engineering - Environmental Engineering	Stanford University
-Singer, Clare Emilie Elmendorf	University of Chicago	Geosciences - Physical and Dynamic Meteorology	University of Chicago
 Singer, Clare Emilie Elmendorf	University of Chicago	Geosciences - Physical and Dynamic Meteorology	University of Chicago
 Singh, Nalini M	Massachusetts Institute of Technology	Comp/IS/Eng - Bioinformatics and other Informatics	Massachusetts Institute of Technology
 Sipe, Joana Marie	Arizona State University	Engineering - Environmental Engineering	Duke University
@@ -1736,8 +1691,8 @@ Slipper, Aaron Arthur Gordon	Harvard University	Mathematical Sciences - Algebra,
 Smart, Jordan Trent	Rutgers University New Brunswick	Engineering - Aeronautical and Aerospace Engineering	Stanford University
 Smeaton, Michelle Anne	University of Minnesota- Twin Cities	Materials Research - Electronic Materials	Cornell University
 Smith, Cassia	University of The Virgin Islands	Geosciences - Hydrology	University of The Virgin Islands
-Smith, Tyler Alan	Syracuse University	Life Sciences - Cell Biology	Massachusetts Institute of Technology
 Smith, Charlyne Alexandria-Marie	Coppin State University	Engineering - Nuclear Engineering	University of Florida
+Smith, Tyler Alan	Syracuse University	Life Sciences - Cell Biology	Massachusetts Institute of Technology
 Smith, Rachel Emma Clarke	University of Illinois at Urbana-Champaign	Physics and Astronomy - Particle Physics	University of Illinois at Urbana-Champaign
 Smith, Emma C	Wellesley College	Social Sciences - Economics	
 Smoak, Rachel Annette	University of South Carolina at Columbia	Engineering - Environmental Engineering	University of Iowa
@@ -1759,7 +1714,6 @@ Spells, Bryon Emmanuel	North Carolina State University	Engineering - Electrical 
 Spencer, Taylor Marie	Pennsylvania State Univ University Park	Social Sciences - Biological Anthropology	UNIVERSITY OF MICHIGAN
 Spertus, Jacob Victor	Bowdoin College	Mathematical Sciences - Statistics	
 Sprunger, Carsten	University of Michigan Ann Arbor	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Stanford University
-Sprunger, Carsten	University of Michigan Ann Arbor	Mathematical Sciences - Algebra, Number Theory, and Combinatorics	Stanford University
 Srivastava, Megha Bhushan	Stanford University	Comp/IS/Eng - other (specify) - Artificial Intelligence	Stanford University
 Srivastava, Sanjana	Massachusetts Institute of Technology	Comp/IS/Eng - Machine Learning	Massachusetts Institute of Technology
 Stallworthy, Isabella	Middlebury College	Psychology - Developmental Psychology	University of Minnesota-Twin Cities
@@ -1778,18 +1732,17 @@ Steinmeyer, Rebecca Hope	Massachusetts Institute of Technology	Engineering - Mec
 Stemkovski, Michael	North Carolina State University	Life Sciences - Ecology	
 Stephenson, Regan Elizabeth	University of Utah	Engineering - Biomedical Engineering	Cornell University
 Stevens, Benjamin Carter	Rose-Hulman Institute of Technology	Engineering - Mechanical Engineering	California Institute of Technology
-Stevens, Craig	American University	Social Sciences - Archaeology	American University
 Stevens, Eric Tyler	SUNY College of Environmental Science and Forestry	Life Sciences - Microbial Biology	University of California-Davis
+Stevens, Craig	American University	Social Sciences - Archaeology	American University
 Steward, Malia Koleti	University of Washington Bothell	Engineering - Electrical and Electronic Engineering	University of Washington Bothell
 Stewart, Simone Houston	William Jewell College	Engineering - Mechanical Engineering	University of California Santa Barbara
 Stewart, Jennifer Nicole	University of Central Florida	Life Sciences - other (specify) - Biology	University of Central Florida
 Stewart, Andrew Frank	SUNY at Buffalo	Life Sciences - Neurosciences	SUNY at Buffalo
 Stiling, Rebekah R.	University of Washington	Life Sciences - Ecology	University of Washington
-Stone, Elizabeth Ann	Connecticut College	Chemistry - Chemical Catalysis	Yale University
 Stone, Austin Charles	University of Texas at Austin	Comp/IS/Eng - Machine Learning	
+Stone, Elizabeth Ann	Connecticut College	Chemistry - Chemical Catalysis	Yale University
 Stoner, Ryan Kevin	University of Colorado at Boulder	Geosciences - Tectonics	University of California-Santa Barbara
 Storme, Kayla Roberta	University of Illinois at Chicago	Chemistry - Chemical Synthesis	University of Illinois at Chicago
-Stout, Victoria Marie	University of California-Santa Cruz	Social Sciences - Decision Making and Risk Analysis	University of Colorado at Boulder
 Stout, Victoria Marie	University of California-Santa Cruz	Social Sciences - Decision Making and Risk Analysis	University of Colorado at Boulder
 Strauss, Michael J.	Winona State University	Chemistry - Chemical Synthesis	Northwestern University
 Strickland, Michael Ray	University of Florida	Life Sciences - Neurosciences	Washington University
@@ -1823,7 +1776,6 @@ Sweitzer, Shannon	University of California-Riverside	Mathematical Sciences - App
 Swift, Michael A	Claremont McKenna College	Life Sciences - Systems and Molecular Biology	Stanford University
 Swink, Courtney Jean	University of South Carolina at Columbia	Life Sciences - Microbial Biology	Duke University Marine Laboratory
 Syal, Sita Marie	University of Michigan Ann Arbor	Engineering - Mechanical Engineering	Stanford University
-Sydir, Emma Marenin	University of California-Berkeley	Life Sciences - Biochemistry	University of California-Berkeley
 Sydir, Emma Marenin	University of California-Berkeley	Life Sciences - Biochemistry	University of California-Berkeley
 Syed, Zoha Hasnain	University of Washington	Chemistry - Chemical Catalysis	
 Sztain, Terra	University of California-Los Angeles	Life Sciences - Biophysics	University of California-San Diego
@@ -1867,18 +1819,16 @@ Toliver, Alexis Andrie	Johns Hopkins University Krieger School of Arts and Scien
 Tollefson, Mallory RaNae	University of Iowa	Engineering - Biomedical Engineering	University of Iowa
 Tom, Kathleen Caroline	UNIVERSITY OF CALIFORNIA BERKELEY	Life Sciences - Ecology	
 Tomlinson, Aimee Danielle	Lawrence Technological University	Engineering - Biomedical Engineering	Michigan State University
-Tomlinson, Aimee Danielle	Lawrence Technological University	Engineering - Biomedical Engineering	Michigan State University
 Ton That, Nguyen Tinh	University of California-Los Angeles	Life Sciences - Ecology	University of California-Davis
-Tonos Luciano, Jadelys Miosotis	Purdue University	Life Sciences - Ecology	William Marsh Rice University
 Tonos Luciano, Jadelys Miosotis	Purdue University	Life Sciences - Ecology	William Marsh Rice University
 Torrez, Brittany Rae	Stanford University	Psychology - Industrial/Organizational Psychology	
 Towbin, William Henry	Oberlin College	Geosciences - Petrology	Columbia University Lamont Doherty Earth Observatory
 Towle, Clarissa May	Massachusetts Institute of Technology	Engineering - Materials Engineering	University of California-Berkeley
 Town, Jason P	University of Arizona	Life Sciences - Systems and Molecular Biology	University of California-San Francisco
 Tran, Arthur Alexandre	University of California-Berkeley	Chemistry - Chemical Synthesis	University of California-Berkeley
-Tran, Brian	University of California-San Diego	Mathematical Sciences - Applied Mathematics	University of California-San Diego
 Tran, Jennifer Suzanne	Texas A&M University Main Campus	Life Sciences - Microbial Biology	Texas A&M University Main Campus
 Tran, Vivien Doan-Thanh	University of California-San Diego	Engineering - Bioengineering	University of California-San Diego
+Tran, Brian	University of California-San Diego	Mathematical Sciences - Applied Mathematics	University of California-San Diego
 Traylor, Allison Marie	Northeastern University	Psychology - Industrial/Organizational Psychology	William Marsh Rice University
 Triplett, Marina Katherine	University of Alabama at Birmingham	Life Sciences - Cell Biology	Columbia University
 Tripp, Arielle Delphine	UCLA-HIGHER EDUCATION RESEARCH INSTITUTE	Comp/IS/Eng - Bioinformatics and other Informatics	UCLA-HIGHER EDUCATION RESEARCH INSTITUTE
@@ -1903,8 +1853,6 @@ Uebel, Celja Jae	University of the Pacific	Life Sciences - Cell Biology	Universi
 Uehling, Jennifer Jean	University of Chicago	Life Sciences - Ecology	Cornell University
 Uiterwaal, Stella F.	University of Nebraska-Lincoln	Life Sciences - Ecology	University of Nebraska-Lincoln
 Uliana, Adam Andrew	Pennsylvania State Univ University Park	Engineering - Chemical Engineering	University of California-Berkeley
-Ulrich, Rebecca Joy	High Point University	Chemistry - Chemistry of Life Processes	High Point University
-Ulrich, Robert Nguyen	Virginia Polytechnic Institute and State University	Geosciences - Geochemistry	University of California, Los Angeles
 Ulrich, Rebecca Joy	High Point University	Chemistry - Chemistry of Life Processes	High Point University
 Ulrich, Robert Nguyen	Virginia Polytechnic Institute and State University	Geosciences - Geochemistry	University of California, Los Angeles
 Ulrich, Kathleen	Haverford College	Social Sciences - Cultural Anthropology	William Marsh Rice University
@@ -1976,8 +1924,8 @@ Wang, Serena Lutong	Harvard University	Comp/IS/Eng - Machine Learning
 Wang, Yuhao	University of Chicago	Life Sciences - Cell Biology	University of California-San Francisco
 Wang, Yichuan	University of Michigan Ann Arbor	Social Sciences - Economics	
 Wang, Siyuan Stella	California Institute of Technology	Comp/IS/Eng - Computer Systems and Embedded Systems	University of Texas at Austin
-Wang, Bryan	University of North Carolina at Chapel Hill	Life Sciences - Microbial Biology	Columbia University
 Wang, Bowen	UNIVERSITY OF CALIFORNIA BERKELEY	Engineering - Bioengineering	UNIVERSITY OF CALIFORNIA BERKELEY
+Wang, Bryan	University of North Carolina at Chapel Hill	Life Sciences - Microbial Biology	Columbia University
 Wang, Amy	Massachusetts Institute of Technology	Engineering - Chemical Engineering	Massachusetts Institute of Technology
 Wang, Alex	Harvard University	Comp/IS/Eng - Natural Language Processing	New York University
 Wank, Aubrey Anne Ladd	University of Connecticut	Psychology - Neuropsychology	University of Arizona
@@ -2013,8 +1961,8 @@ Whippo, Ross Douglas	University of Washington	Life Sciences - Ecology
 White, Haley Danielle	Tennessee Technological University	Engineering - Environmental Engineering	Tennessee Technological University
 White, Luna Vincent	University of Southern California	Social Sciences - Sociology	University of Illinois at Chicago
 White, Brittney A.	University of New Mexico	Life Sciences - Evolutionary Biology	University of New Mexico
-White, Shannon Marie	University of Maryland	Life Sciences - Cell Biology	Georgetown University
 White, Amber	Loyola University of Chicago	Geosciences - Geochemistry	University of Minnesota Duluth
+White, Shannon Marie	University of Maryland	Life Sciences - Cell Biology	Georgetown University
 White, Rebekah D	East Tennessee State University	Mathematical Sciences - Applied Mathematics	North Carolina State University
 Whitehead, Alexander Jeffrey	Virginia Commonwealth University	Engineering - Bioengineering	University of California-San Diego
 Whitelock, Hope	University of Connecticut	Physics and Astronomy - Condensed Matter Physics	University of Connecticut
@@ -2046,9 +1994,7 @@ Woodruff, Steven Robert	Tufts University	Engineering - Civil Engineering	Univers
 Woodrum, Charity	University of Oregon Eugene	Physics and Astronomy - Astronomy and Astrophysics	University of Oregon Eugene
 Woodstock, Zev	James Madison University	Mathematical Sciences - Analysis	North Carolina State University
 Worley, Peter	OHIO STATE UNIVERSITY	Engineering - Energy Engineering	UNIVERSITY OF CALIFORNIA BERKELEY
-Worley, Peter	OHIO STATE UNIVERSITY	Engineering - Energy Engineering	UNIVERSITY OF CALIFORNIA BERKELEY
 Wozniak, Katherine Jayne	Michigan State University	Life Sciences - Microbial Biology	University of Michigan Ann Arbor
-Wright, Dana L	University of Maine	Geosciences - Marine Biology	
 Wright, Dana L	University of Maine	Geosciences - Marine Biology	
 Wright, Kristina M	Boston College	Life Sciences - Neurosciences	Boston College
 Wright, Brandon Alexander	Harvard University	Chemistry - Chemistry of Life Processes	Harvard University
@@ -2062,12 +2008,12 @@ Wyatt, Sydney Rose	University of Utah	Life Sciences - Developmental Biology	Univ
 Xiao, Kai Yuanqing	Massachusetts Institute of Technology	Comp/IS/Eng - Algorithms and Theoretical Foundations	Massachusetts Institute of Technology
 Xin, Yeyuan	California Institute of Technology	Physics and Astronomy - Astronomy and Astrophysics	California Institute of Technology
 Xu, Chelsea	New York University	Life Sciences - Neurosciences	Yale University
-Xu, Sophia Ye	Stanford University	Life Sciences - Biochemistry	Massachusetts Institute of Technology
 Xu, Lucy	Brown University	Life Sciences - Genetics	Stanford University
+Xu, Sophia Ye	Stanford University	Life Sciences - Biochemistry	Massachusetts Institute of Technology
 Yang, Lucy Zhuoyu	University of Minnesota-Twin Cities	Mathematical Sciences - Topology	University of Minnesota-Twin Cities
 Yang, Cassidy	California Institute of Technology	Physics and Astronomy - Physics of Living Systems	Princeton University
-Yang, Julia	University of Kansas Main Campus	Social Sciences - Geography	University of Arizona
 Yang, Elizabeth Yitong	Princeton University	Comp/IS/Eng - Algorithms and Theoretical Foundations	UNIVERSITY OF CALIFORNIA BERKELEY
+Yang, Julia	University of Kansas Main Campus	Social Sciences - Geography	University of Arizona
 Yao, David	University of California-Los Angeles	Life Sciences - Genetics	Stanford University
 Yates, Tristan Skye	Emory University	Psychology - Cognitive Psychology	Emory University
 Yazarians, Jessica	Florida Gulf Coast University	Chemistry - Chemical Catalysis	University of Michigan Ann Arbor
@@ -2106,7 +2052,6 @@ Ziegler, Matthew Paul	University of Wisconsin-Madison	Comp/IS/Eng - Human Comput
 Zitomer, Rachel Anne	Humboldt State University Foundation	Life Sciences - Ecology	
 Zook, Zane Anthony	Stanford University	Engineering - Mechanical Engineering	Stanford University
 Zou, Luli S	University of Wisconsin-Madison	Life Sciences - Bioinformatics and Computational Biology	
-Zuo, George Wayne	Harvard University	Social Sciences - Economics	University of Maryland College Park
 Zuo, George Wayne	Harvard University	Social Sciences - Economics	University of Maryland College Park
 Zurkowski, Claire Christine	San Francisco State University	Geosciences - other (specify) - Mineral Physics	University of Chicago
 Zuromski, Kristin Leigh	Auburn University	Life Sciences - Biochemistry	Massachusetts Institute of Technology
