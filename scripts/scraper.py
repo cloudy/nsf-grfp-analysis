@@ -18,12 +18,11 @@ for itm in control.items[1:]:
     control = br.form.find_control('awardYear')
     print itm
     br[control.name] = [itm.name]
-    #br[award_type.name] = ['H']
+    br[award_type.name] = ['H']
     response = br.submit()
     # now in specific year
     exp = br.links()[12] # excel export link
     req = br.click_link(exp)
     resp = br.follow_link(exp)
-
-    open('../data/%s-hm-grfp.data' % itm.name.replace('*', ''), 'w').write(resp.read())
+    open('../data/%s-grfp.data' % itm.name.replace('*', ''), 'w').write(resp.read())
     br.back()
