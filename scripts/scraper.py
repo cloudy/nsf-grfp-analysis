@@ -18,7 +18,7 @@ for itm in control.items[1:]:
     control = br.form.find_control('awardYear')
     print itm
     br[control.name] = [itm.name]
-    br[award_type.name] = ['H']
+    #br[award_type.name] = ['H']
     response = br.submit()
     # now in specific year
     exp = br.links()[12] # excel export link

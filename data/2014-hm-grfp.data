@@ -187,9 +187,9 @@ Brown, Cora Lynn	Carleton College	Mathematical Sciences - Algebra, Number Theory
 Brown, Noam	Rutgers University New Brunswick	Comp/IS/Eng - other (specify) - Artificial Intelligence	Carnegie-Mellon University
 Brown, Emily Kathryn	Vassar College	Psychology - Experimental or Comparative	Emory University
 Brown, Philip N	Georgia Institute of Technology	Engineering - Electrical and Electronic	University of Colorado at Boulder
+Brown, Peter Thomas	University of Chicago	Physics and Astronomy - Atomic, Molecular and Optical Physics	Princeton University
 Brown, Michelle Patrice	Washington University	Psychology - Developmental	University of Minnesota-Twin Cities
 Brown, Samara Naomi	Mount Holyoke College	Life Sciences - Genetics	Yale University
-Brown, Peter Thomas	University of Chicago	Physics and Astronomy - Atomic, Molecular and Optical Physics	Princeton University
 Brubaker, Douglas K	Case Western Reserve University	Life Sciences - Systematic Biology	Case Western Reserve University
 Bruch, Alexander Wilhelm	Elon University	Materials Research - Photonic materials	Elon University
 Bruenn, Riva Anne	Oberlin College	Life Sciences - Evolutionary Biology	UNIVERSITY OF CALIFORNIA BERKELEY
@@ -370,8 +370,8 @@ Davidson, Ryan	University of Arizona	Psychology - Physiological	University of Ar
 Davies, Geraint Hywel Madoc	Emory University	Chemistry - Chemical Synthesis	University of Pennsylvania
 Davies, Rachel Anne	Middle Tennessee State University	Life Sciences - other (specify) - Pharmacology	
 Davis, Joshua David	University of Maryland	Engineering - Mechanical	JOHNS HOPKINS UNIVERSITY
-Davis, Destiny Jade	University of Central Arkansas	Life Sciences - Cell Biology	University of California-Davis
 Davis, Joe Reese	University of Chicago	Life Sciences - Genetics	Stanford University
+Davis, Destiny Jade	University of Central Arkansas	Life Sciences - Cell Biology	University of California-Davis
 Dawson, Ben	Oregon State University	Life Sciences - Environmental Sciences	
 De Jong, Hannah Naomi	CORNELL UNIVERSITY	Life Sciences - Genetics	CORNELL UNIVERSITY
 de la Campa, Elijah Alvarez	Columbia University	Social Sciences - Economics (except Business Administration)	Columbia University
@@ -740,8 +740,8 @@ Hu, Sarah	University of Washington	Geosciences - Biological Oceanography	Univers
 Huang, Irvin Jungpei	University of California-Davis	Geosciences - Biological Oceanography	SUNY at Stony Brook
 Huang, Derek Lee	University of Arizona	Life Sciences - Biophysics	University of Arizona
 Huang, Dantong	Cornell University	Engineering - Biomedical	Cornell University
-Huang, Tiffany	California Institute of Technology	Comp/IS/Eng - Robotics and Computer Vision	California Institute of Technology
 Huang, Duanni	MASSACHUSETTS INSTITUTE OF TECHNOLOGY	Engineering - Electrical and Electronic	University of California-Santa Barbara
+Huang, Tiffany	California Institute of Technology	Comp/IS/Eng - Robotics and Computer Vision	California Institute of Technology
 Huard, Chad	Wayne State University	Engineering - Electrical and Electronic	University of Michigan Ann Arbor
 Huber, Tyler Daniel	University of North Florida	Life Sciences - Biochemistry	University of Kentucky
 Hudson, Graham Arthur	Saint Louis University	Life Sciences - Biochemistry	University of Illinois at Urbana-Champaign
@@ -1118,10 +1118,10 @@ Miller, Hilary Elaine	University of Wisconsin-Madison	Psychology - Developmental
 Miller, David Roger	Carleton College	Engineering - Biomedical	University of Texas at Austin
 Miller, Elizabeth Christina	University of California-San Diego	Life Sciences - Organismal Biology	University of California-San Diego
 Miller, Leith Brittany	University of California-Santa Cruz	Life Sciences - Evolutionary Biology	University of Washington
-Miller, Ian James	Kalamazoo College	Life Sciences - Genomics	University of Wisconsin-Madison
 Miller, Scott	University of Minnesota- Twin Cities	Engineering - Environmental	University of California-Berkeley
-Miller, Eric Alexander	Stanford University	Engineering - Chemical Engineering	Massachusetts Institute of Technology
 Miller, Rachel Ann	Board of Regents, NSHE, obo University of Nevada, Reno	Geosciences - Geophysics	California Institute of Technology
+Miller, Ian James	Kalamazoo College	Life Sciences - Genomics	University of Wisconsin-Madison
+Miller, Eric Alexander	Stanford University	Engineering - Chemical Engineering	Massachusetts Institute of Technology
 Mills, Sean Martin	California Institute of Technology	Physics and Astronomy - Astronomy and Astrophysics	University of Chicago
 Mills, Benjamin	Columbia University	Social Sciences - Economics (except Business Administration)	Columbia University
 Mishra, Gouri Shankar	Birla Institute of Technology and Science	Social Sciences - Public Policy	University of California-Davis
@@ -1743,10 +1743,10 @@ Wang, Christine H	Emory University	Psychology - other (specify) - Clinical Scien
 Wang, Jason Thomas	UNIVERSITY OF CALIFORNIA BERKELEY	Engineering - Biomedical	UNIVERSITY OF CALIFORNIA BERKELEY
 Wang, Huaiying	MASSACHUSETTS INSTITUTE OF TECHNOLOGY	Life Sciences - Neurosciences	Harvard University
 Wang, Arick	Emory University	Psychology - other (specify) - Neuroscience and Animal Behavior	Emory University
-Wang, Karen May	Princeton University	Engineering - Mechanical	Princeton University
 Wang, Zhen	Cornell University	Materials Research - Biomaterials	Cornell University
-Wang, Chunguang	Dordt College	Social Sciences - Public Policy	
 Wang, Thomas Tzy-Sheng	Dartmouth College	Life Sciences - Molecular Biology	Columbia University
+Wang, Karen May	Princeton University	Engineering - Mechanical	Princeton University
+Wang, Chunguang	Dordt College	Social Sciences - Public Policy	
 Wang, Jason Jinfei	Cornell University	Physics and Astronomy - Astronomy and Astrophysics	University of California-Berkeley
 Ward, Andrew Michael	Williams College	Life Sciences - Neurosciences	UNIVERSITY OF CALIFORNIA BERKELEY
 Ward, Kevin Lawrence	North Carolina State University	Engineering - Chemical Engineering	University of Florida
